@@ -1,0 +1,141 @@
+{
+  "app": {
+    "name": "Finora",
+    "tagline": "Your multilingual, multi-currency personal finance command centre."
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "insights": "Insights",
+    "automation": "Automation",
+    "settings": "Settings"
+  },
+  "actions": {
+    "add": "Add",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "apply": "Apply",
+    "start": "Get Started"
+  },
+  "dashboard": {
+    "overview": "Overview",
+    "totalSpend": "Total Spend",
+    "netCashflow": "Net Cashflow",
+    "avgPerDay": "Average Per Day",
+    "surplus": "Savings Surplus",
+    "deficit": "Overspending",
+    "recentTransactions": "Recent Transactions",
+    "emptyState": "No activity yet. Add your first transaction to power the analytics.",
+    "heatmapTitle": "Spending Focus",
+    "categorySplit": "Category Split",
+    "cashflowTrend": "Cashflow Trend",
+    "upcoming": "Upcoming Events",
+    "upcomingBills": "Bills Due Soon",
+    "upcomingGoals": "Goal Milestones",
+    "upcomingTasks": "Life Tasks"
+  },
+  "forms": {
+    "transaction": {
+      "title": "Quick Transaction",
+      "description": "Log income or spending in seconds. Works with any currency in the world.",
+      "amount": "Amount",
+      "currency": "Currency",
+      "type": "Type",
+      "category": "Category",
+      "date": "Date",
+      "notes": "Notes",
+      "submit": "Save Transaction",
+      "types": {
+        "income": "Income",
+        "expense": "Expense",
+        "transfer": "Transfer"
+      }
+    },
+    "budget": {
+      "title": "Smart Budget",
+      "description": "Set contextual budgets with guard rails and alerts.",
+      "name": "Name",
+      "limit": "Monthly Limit",
+      "category": "Category",
+      "notify": "Notify when 80% utilised",
+      "submit": "Create Budget"
+    },
+    "goal": {
+      "title": "Savings Goal",
+      "description": "Visualise progress toward the experiences you care about.",
+      "name": "Goal Name",
+      "target": "Target Amount",
+      "deadline": "Deadline",
+      "submit": "Add Goal"
+    },
+    "bill": {
+      "title": "Recurring Bill",
+      "description": "Auto-track subscriptions, rent, EMI, utilities and more.",
+      "name": "Bill Name",
+      "amount": "Amount Due",
+      "cycle": "Cycle",
+      "dueDate": "Next Due",
+      "submit": "Save Bill"
+    },
+    "task": {
+      "title": "Life Task",
+      "description": "Keep personal finance chores in one visible queue.",
+      "name": "Task",
+      "due": "Due Date",
+      "submit": "Add Task"
+    }
+  },
+  "categories": {
+    "housing": "Housing",
+    "food": "Food & Dining",
+    "transport": "Transport",
+    "personal": "Personal Care",
+    "entertainment": "Entertainment",
+    "subscriptions": "Subscriptions",
+    "utilities": "Utilities",
+    "health": "Health & Wellness",
+    "travel": "Travel",
+    "education": "Education",
+    "salary": "Salary",
+    "business": "Business",
+    "freelance": "Freelance",
+    "other": "Other"
+  },
+  "settings": {
+    "title": "Workspace Settings",
+    "language": "Language",
+    "currency": "Primary Currency",
+    "theme": "Theme",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System",
+    "autoCategorise": "Auto-categorise transactions",
+    "predictCashflow": "Predict month-end cashflow",
+    "enableReminders": "Smart reminders & nudges",
+    "export": "Export Data",
+    "import": "Import Data",
+    "reset": "Reset Workspace",
+    "currencyHint": "Choose a default currency. Everything converts instantly."
+  },
+  "insights": {
+    "title": "Deep Insights",
+    "subtitle": "Understand patterns, discover anomalies, and make decisions confidently.",
+    "cashflowProjection": "Cashflow Projection",
+    "categoryRanking": "Top Categories",
+    "burnDown": "Burn Down Chart",
+    "savingsTrajectory": "Savings Trajectory"
+  },
+  "automation": {
+    "title": "Automation Studio",
+    "subtitle": "Automate chores, avoid late fees, and stay on top of life.",
+    "rules": {
+      "roundup": "Round-up spare change to savings goals.",
+      "alerts": "Get notified when spending spikes in any category.",
+      "autoPay": "Schedule auto-pay for recurring bills with reminders."
+    }
+  },
+  "feedback": {
+    "cta": "Need something more? Tell us and we will build it."
+  }
+}
